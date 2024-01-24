@@ -19,7 +19,7 @@ decimal totalPrice = standartCofee + rulletSpring;
 // Считаем НДС итога чека первого товара 18%
 
 // Выводим данные на чек первого товара
-Console.WriteLine($"\t\t\t**************************************************************\n\t\t\t№ Название\t\t\t\tЦена\tКол.\tСумма\n\n\t\t\t1. {coFee}\t\t\t{standartCofee}\t1,00\t{standartCofee}\n\t\t\t   НДС с расчитаной ставкой 18%\t\t\t\t{ndsCofee:F2}\n\t\t\t");
+Console.WriteLine($"\t\t\t**************************************************************\n\t\t\t№  Название\t\t\t\tЦена\tКол.\tСумма\n\n\t\t\t1. {coFee}\t\t\t{standartCofee}\t1,00\t{standartCofee}\n\t\t\t   НДС с расчитаной ставкой 18%\t\t\t\t{ndsCofee:F2}\n\t\t\t");
 
 // Выводим данные на чек второго товара
 Console.WriteLine($"\t\t\t2. {rulLet}\t\t\t{rulletSpring}\t1,00\t{rulletSpring}\n\t\t\t   КУ\t\t\t\t\t\t\t{ndsSpring:F2}\n\n\n\t\t\t**************************************************************\n\t\t\tИТОГО:\t\t\t\t\t\t\t{totalPrice}\n");
