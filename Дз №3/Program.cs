@@ -14,6 +14,9 @@
         Console.WriteLine($"{firstWord} {secondWord}");
         Console.WriteLine(sentence);
         Console.WriteLine(cutSentence);
+
+        firstWord = firstWord.Insert(8,secondWord);
+        Console.WriteLine(firstWord);
     }
     
 }
