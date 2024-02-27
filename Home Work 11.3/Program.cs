@@ -3,9 +3,9 @@
 Random random = new Random();
 Console.Write("Введите число от 0 до 5: ");
 int numb = int.Parse(Console.ReadLine());
-random.Next(0, 5);
+int a = random.Next(0, 5);
 
-if (numb > random) Console.WriteLine("Вы выйграли :)");
-else if (numb < random ) Console.WriteLine("Поражение :( ")
-
+if (numb > a) Console.WriteLine("Поражение :(");
+else if (numb < a) Console.WriteLine("Поражение :( ");
+else Console.WriteLine("Вы выйграли :) ");
 
