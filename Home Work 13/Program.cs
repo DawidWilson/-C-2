@@ -9,6 +9,7 @@ do
     user = int.Parse(Console.ReadLine());
     if (i < 3)
     {
+        if (user == aiNumber) break;
         Console.WriteLine($"Попыток осталось {i}");
         if (i <= 0 )
         {
