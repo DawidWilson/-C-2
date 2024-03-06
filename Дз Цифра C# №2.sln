@@ -37,11 +37,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home Work 11.3", "Home Work
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home Work 11.4", "Home Work 11.4\Home Work 11.4.csproj", "{5A47348B-0857-493D-810D-B7D4760C723B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home Work 12.1", "Home Work 12.1\Home Work 12.1.csproj", "{0F7722E5-D3C1-4242-B3D3-C1BE6592ADA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home Work 12.1", "Home Work 12.1\Home Work 12.1.csproj", "{0F7722E5-D3C1-4242-B3D3-C1BE6592ADA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home Work 12.2", "Home Work 12.2\Home Work 12.2.csproj", "{81F3CEEC-8AC7-4E95-AC77-D98DBB319E8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home Work 12.2", "Home Work 12.2\Home Work 12.2.csproj", "{81F3CEEC-8AC7-4E95-AC77-D98DBB319E8D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home Work 13", "Home Work 13\Home Work 13.csproj", "{862A7038-1B55-4B56-91E5-1D587279AF3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home Work 13.2", "Home Work 13.2\Home Work 13.2.csproj", "{30E9C716-EEB6-47DC-836A-15CA970735F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{862A7038-1B55-4B56-91E5-1D587279AF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{862A7038-1B55-4B56-91E5-1D587279AF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{862A7038-1B55-4B56-91E5-1D587279AF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E9C716-EEB6-47DC-836A-15CA970735F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E9C716-EEB6-47DC-836A-15CA970735F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E9C716-EEB6-47DC-836A-15CA970735F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E9C716-EEB6-47DC-836A-15CA970735F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
