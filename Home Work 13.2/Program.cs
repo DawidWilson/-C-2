@@ -15,3 +15,32 @@ while (true)
     if (random1 == 7) Console.WriteLine($"Сгенирировано {random1}");
     break;
 }
+
+
+
+
+/*Написать программу, которая будет запрашивать у пользователя
+числа, пока он не введет число 0. После этого программа должна
+вывести сумму всех введенных пользователем чисел.*/
+
+
+int userNum = 0;
+int i = 0;
+
+while (true)
+{
+    Console.Write("Введите любое число: ");
+    int user = int.Parse(Console.ReadLine());
+
+    if (user != 0)
+    {
+        userNum += user;
+        i++;
+    }
+    if (user == 0)
+    {
+        Console.WriteLine($"Ваш результат {userNum + user}");
+        break;
+    }
+
+}
