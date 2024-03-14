@@ -5,11 +5,11 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Дз Цифра C# №2", "Дз Цифра C# №2\Дз Цифра C# №2.csproj", "{970351FD-E8CC-4C01-AF9F-11B68A8A2D35}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Дз №3", "Дз №3\Дз №3.csproj", "{E2929147-FD8A-40EA-8B6D-9D20FCB8700B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home Work 3", "Дз №3\Home Work 3.csproj", "{E2929147-FD8A-40EA-8B6D-9D20FCB8700B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home_Work 4 Cifra", "Home_Work 4 Cifra\Home_Work 4 Cifra.csproj", "{C56994D6-B9C3-4ED4-A337-D747BC4CFA9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home Work 4", "Home_Work 4 Cifra\Home Work 4.csproj", "{C56994D6-B9C3-4ED4-A337-D747BC4CFA9F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home Work № 5", "Home Work № 5\Home Work № 5.csproj", "{5B768B78-A7DF-491A-8D6C-208F5A222BA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home Work  5", "Home Work № 5\Home Work  5.csproj", "{5B768B78-A7DF-491A-8D6C-208F5A222BA8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork 5.2", "HomeWork 5.2\HomeWork 5.2.csproj", "{BB9BFF23-5C95-451B-ACA2-70410C4E8EF6}"
 EndProject
@@ -53,7 +53,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home Work 15.2", "Home Work
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home Work 15.3", "Home Work 16.1\Home Work 15.3.csproj", "{42EF5BBD-A1C2-4597-840A-664BB7595CEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 14.2", "Lesson 14.2\Lesson 14.2.csproj", "{031CF200-DD13-415E-93C9-2C1369FB772F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Home Work 14.2", "Lesson 14.2\Home Work 14.2.csproj", "{031CF200-DD13-415E-93C9-2C1369FB772F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
